@@ -1,0 +1,53 @@
+codigo_dgt,provincia,ccaa,lat,lon
+A,Alicante,Comunitat Valenciana,38.35,-0.48
+AB,Albacete,Castilla-La Mancha,38.99,-1.86
+AL,Almería,Andalucía,36.84,-2.46
+AV,Ávila,Castilla y León,40.66,-4.70
+B,Barcelona,Cataluña,41.39,2.17
+BA,Badajoz,Extremadura,38.88,-6.97
+BI,Bizkaia,País Vasco,43.26,-2.93
+BU,Burgos,Castilla y León,42.34,-3.70
+C,A Coruña,Galicia,43.36,-8.41
+CA,Cádiz,Andalucía,36.53,-6.29
+CC,Cáceres,Extremadura,39.47,-6.37
+CE,Ceuta,Ceuta,35.89,-5.32
+CO,Córdoba,Andalucía,37.88,-4.78
+CR,Ciudad Real,Castilla-La Mancha,38.99,-3.93
+CS,Castellón,Comunitat Valenciana,39.99,-0.05
+CU,Cuenca,Castilla-La Mancha,40.07,-2.14
+GC,Las Palmas,Canarias,28.12,-15.43
+GI,Girona,Cataluña,41.98,2.82
+GR,Granada,Andalucía,37.18,-3.60
+GU,Guadalajara,Castilla-La Mancha,40.63,-3.17
+H,Huelva,Andalucía,37.26,-6.95
+HU,Huesca,Aragón,42.14,-0.41
+IB,Illes Balears,Illes Balears,39.57,2.65
+J,Jaén,Andalucía,37.77,-3.79
+L,Lleida,Cataluña,41.62,0.62
+LE,León,Castilla y León,42.60,-5.57
+LO,La Rioja,La Rioja,42.47,-2.45
+LU,Lugo,Galicia,43.01,-7.56
+M,Madrid,Comunidad de Madrid,40.42,-3.70
+MA,Málaga,Andalucía,36.72,-4.42
+ML,Melilla,Melilla,35.29,-2.94
+MU,Murcia,Región de Murcia,37.99,-1.13
+NA,Navarra,Navarra,42.81,-1.64
+O,Asturias,Asturias,43.36,-5.85
+OU,Ourense,Galicia,42.34,-7.86
+P,Palencia,Castilla y León,42.01,-4.53
+PO,Pontevedra,Galicia,42.43,-8.64
+S,Cantabria,Cantabria,43.46,-3.80
+SA,Salamanca,Castilla y León,40.97,-5.66
+SE,Sevilla,Andalucía,37.39,-5.98
+SG,Segovia,Castilla y León,40.95,-4.12
+SO,Soria,Castilla y León,41.76,-2.46
+SS,Gipuzkoa,País Vasco,43.32,-1.98
+T,Tarragona,Cataluña,41.12,1.25
+TE,Teruel,Aragón,40.34,-1.11
+TF,Santa Cruz de Tenerife,Canarias,28.46,-16.25
+TO,Toledo,Castilla-La Mancha,39.86,-4.02
+V,Valencia,Comunitat Valenciana,39.47,-0.38
+VA,Valladolid,Castilla y León,41.65,-4.72
+VI,Álava,País Vasco,42.85,-2.67
+Z,Zaragoza,Aragón,41.65,-0.89
+ZA,Zamora,Castilla y León,41.50,-5.75

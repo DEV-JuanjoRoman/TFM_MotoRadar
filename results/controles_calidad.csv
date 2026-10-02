@@ -1,0 +1,8 @@
+control,superado
+Meses consecutivos sin huecos,True
+52 provincias x 4 segmentos,True
+Todas las provincias tienen nombre,True
+Sin valores negativos,True
+Suma provincial = total nacional (motos nuevas),True
+Suma por marcas = total nacional (motos nuevas),True
+Abril 2020 es el mínimo de la serie (confinamiento),True

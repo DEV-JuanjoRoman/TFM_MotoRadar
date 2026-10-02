@@ -1,0 +1,67 @@
+{
+  "fecha_entrenamiento": "2026-10-02",
+  "datos_hasta": "2026-08",
+  "meses_previstos": [
+    "2026-09",
+    "2026-10",
+    "2026-11"
+  ],
+  "filas_entrenamiento": 71760,
+  "series": 208,
+  "variables": [
+    "h",
+    "segmento_cod",
+    "provincia_cod",
+    "log_nivel",
+    "tendencia_anual",
+    "media_3m_rel",
+    "mismo_mes_anio_ant_rel",
+    "mismo_mes_hace2_rel",
+    "yoy_3m",
+    "lag0_rel",
+    "lag1_rel",
+    "lag2_rel",
+    "lag3_rel",
+    "lag4_rel",
+    "lag5_rel",
+    "lag6_rel",
+    "lag7_rel",
+    "lag8_rel",
+    "lag9_rel",
+    "lag10_rel",
+    "lag11_rel",
+    "mes_num",
+    "mes_sin",
+    "mes_cos",
+    "dias_laborables",
+    "dias_lab_anio_ant",
+    "origen_covid"
+  ],
+  "parametros": {
+    "objective": "regression",
+    "learning_rate": 0.03,
+    "n_estimators": 900,
+    "num_leaves": 31,
+    "min_child_samples": 40,
+    "subsample": 0.8,
+    "subsample_freq": 1,
+    "colsample_bytree": 0.8,
+    "reg_lambda": 1.0,
+    "random_state": 42,
+    "verbose": -1
+  },
+  "backtest": {
+    "origenes": "2024-09 a 2026-07",
+    "wape_provincia_lightgbm": 0.152,
+    "wape_provincia_naive": 0.2139,
+    "wape_nacional_lightgbm": 0.1026,
+    "mejora_vs_naive": 0.2893,
+    "mejora_vs_naive_ic95": [
+      0.2248,
+      0.3533
+    ],
+    "cobertura_intervalo_80": 0.813,
+    "wape_provincia_ets": 0.185,
+    "mejora_vs_ets": 0.1782
+  }
+}

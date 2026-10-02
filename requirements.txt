@@ -1,0 +1,7 @@
+# Dependencias de la APP (Streamlit Community Cloud lee este fichero).
+# Versiones fijadas a las del entorno con el que se desarrolló y validó el TFM.
+# Para reproducir el pipeline de modelado: pip install -r requirements-pipeline.txt
+streamlit==1.64.0
+pandas==3.0.5
+numpy==2.5.3
+plotly==7.1.0

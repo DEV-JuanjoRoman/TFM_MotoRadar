@@ -1,0 +1,4 @@
+,origenes_ganados,total
+Naive estacional (año anterior),22,23
+Naive estacional con tendencia,22,23
+Holt-Winters (ETS),15,23

@@ -1,0 +1,21 @@
+# Entornos y caché
+.venv/
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Secretos: nunca subir
+.streamlit/secrets.toml
+
+# ZIP originales de la DGT (~12 MB/mes): se descargan con pipeline/fase0_descarga_dgt.py
+data/dgt_zip/
+
+# Tablas intermedias regenerables con pipeline/fase1_preparacion.py
+data/processed/
+data/gold/gold_demanda_modelo.parquet
+
+# Sistema
+.DS_Store
+Thumbs.db
+~$*

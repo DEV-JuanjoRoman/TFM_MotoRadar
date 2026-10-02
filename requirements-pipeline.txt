@@ -1,0 +1,9 @@
+# Dependencias para reproducir el pipeline completo (fases 0-5) y las pruebas.
+-r requirements.txt
+lightgbm==4.7.0
+statsmodels==0.15.0
+scikit-learn==1.9.1
+scipy==1.18.1
+holidays==0.105
+pyarrow==25.0.1
+matplotlib==3.11.2
